@@ -2,6 +2,8 @@ baseURL = "https://ffvitu.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Felix Fernando"
+googleAnalytics = "UA-178407080-1"
+
 theme = "hermit"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
