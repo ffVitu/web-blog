@@ -346,6 +346,8 @@ Webcam biasanya terdiri dari sebuah lensa yang dipasang dalam papan sirkuit yang
 
 Sebuah webcam dirancang bukan untuk menyimpan gambar. Sebab, fungsi utama webcam disini hanyalah untuk merekam dan mengirimkan gambar yang ditangkap langsung oleh komponennya. Hingga kini, webcam masih dapat dijumpai di pasaran dengan harga yang bermacam-macam tergantung dengan fitur dan kemampuan dalam menangkap gambar.
 
+---
+
 Sumber :
 
 [https://www.nesabamedia.com/komponen-komputer/](https://www.nesabamedia.com/komponen-komputer/)
