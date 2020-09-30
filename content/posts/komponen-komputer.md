@@ -8,30 +8,6 @@ tags:
   - Komputer
   - Hardware
 ---
-**List** :
-
----
-
-1. [Motherboard](#motherboard)
-2. [Processor](#processor)
-3. [Heatsink](#heatsink)
-4. [RAM](#ram)
-5. [Hard Disk](#harddisk)
-6. [VGA Card](#vgacard)
-7. [Flashdisk](#flashdisk)
-8. [Monitor](#monitor)
-9. [Keyboard](#keyboard)
-10. [Mouse](#mouse)
-11. [Optical Drive](#opticaldrive)
-12. [SSD](#ssd)
-13. [Power Supply](#powersupply)
-14. [LAN Card](#lancard)
-15. [WLAN Card](#wlancard)
-16. [Sound Card](#soundcard)
-17. [Printer](#printer)
-18. [Scanner](#scanner)
-19. [Speaker](#speaker)
-20. [Webcam](#webcam)
 
 ## Motherboard
 

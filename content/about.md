@@ -9,5 +9,3 @@ draft: false
 ---
 
 Felix Fernando
-
-> Pontianak, Kalimantan Barat, Indonesia

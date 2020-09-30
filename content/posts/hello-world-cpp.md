@@ -1,7 +1,7 @@
 ---
 title: "Hello World C++"
 date: 2020-09-20T19:45:51+07:00
-draft: false
+draft: true
 toc: false
 images:
 tags: 

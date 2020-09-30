@@ -25,6 +25,12 @@ Awal mula dari Bluetooth adalah sebagai teknologi komunikasi wireless (tanpa kab
 
 Pembentukan Bluetooth dipromotori oleh 5 perusahaan besar Ericsson, IBM, Intel, Nokia dan Toshiba membentuk sebuah Special Interest Group (SIG) yang meluncurkan proyek ini. Pada bulan Juli 1999 dokumen spesifikasi bluetooth versi 1.0 mulai diluncurkan. Pada bulan Desember 1999 dimulai lagi pembuatan dokumen spesifikasi bluetooth versi 2.0 dengan tambahan 4 promotor baru yaitu 3Com, Lucent Technologies, Microsoft dan Motorola. Saat ini, lebih dari 1800 perusahaan di berbagai bidang bergabung dalam sebuah konsorsium sebagai adopter teknologi bluetooth. Walaupun standar Bluetooth SIG saat ini ‘dimiliki’ oleh grup promotor tetapi ia diharapkan akan menjadi sebuah standar IEEE (802.15)
 
+---
+
+![Bluetooth](/picture/bluetooth.png)
+
+---
+
 ## Asal nama bluetooth dan lambangnya
 
 ---
