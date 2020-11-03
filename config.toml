@@ -10,6 +10,9 @@ pygmentsUseClasses  = true
 rssLimit = 5  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+math = true # Enable MathJax for all site pages
+mathPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+mathConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
 
 [author]
   name = "Felix Fernando"
