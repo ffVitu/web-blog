@@ -5,7 +5,8 @@ draft: false
 toc: false
 images:
 tags: 
-  - Binner
+  - Biner
+  - Oktal
 ---
 
 ## Pengertian Biner
