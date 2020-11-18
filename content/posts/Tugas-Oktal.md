@@ -7,6 +7,7 @@ images:
 tags: 
   - Oktal
   - Biner
+  - Desimal
 ---
 
 ## Conversi Bilangan Oktal

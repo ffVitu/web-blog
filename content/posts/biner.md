@@ -7,6 +7,7 @@ images:
 tags: 
   - Biner
   - Oktal
+  - Desimal
 ---
 
 ## Pengertian Biner
